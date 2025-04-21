@@ -31,23 +31,11 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<p align="center"><img src="https://profile-counter.glitch.me/{DinushaMadhushani}/count.svg" alt="visitor badge"/></p>
+<p align="center"><a href="https://github.com/DinushaMadhushani"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinushaMadhushani&theme=tokyonight" /></a></p>
+<p align="center" ><a href="https://github.com/DinushaMadhushani"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DinushaMadhushani&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/</a></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=DinushaMadhushani&theme=tokyonight"></p>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DinushaMadhushani&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DinushaMadhushani&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DinushaMadhushani&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
@@ -66,6 +54,7 @@
 
 <!-- Horizontal Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+
 
 <!--My Github Stats (Graph)-->
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=DinushaMadhushani&theme=react-dark&hide_border=true&area=true)
